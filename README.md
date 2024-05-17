@@ -1,4 +1,9 @@
 # Getting Started with Create React App
+HostUrl :- https://ecommerce-client-plum.vercel.app/#/
+
+ScreenShort:-
+![Screenshot 2024-05-17 221413](https://github.com/jaish11/ECOMMERCE_CLIENT/assets/101746765/8159003d-a7a8-4d9a-afae-fdcc25e56adf)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
